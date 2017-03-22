@@ -1,0 +1,92 @@
+body {
+	margin: 0;
+}
+
+.badge {
+	width: 20px;
+	height: 20px;
+	background-color: red;
+	display: inline-block;
+}
+
+.bubble {
+	margin-top: 10px;
+	border-top: 1px solid #656565;
+	padding-top: 10px;
+}
+
+.cell {
+	width: auto;
+	height: auto;
+	background-color: white;
+	padding: 15px;
+	margin-top: 25px;
+}
+
+.feature_h3 {
+	display: inline-block;
+}
+
+.feature_text {
+	font-style: italic;
+}
+
+h1, h2, h3, h4, h5, p {
+	margin: 0;
+	font-family: helvetica;
+	color: #656565;
+}
+
+#header {
+	background-color: #f3c937;
+	width: 70%;
+	height: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+#logo {
+	float: left;
+}
+
+#main {
+	padding-left: 15%;
+	padding-right: 15%;
+	background-color: #f3f3f3;
+	height: 100vh;
+}
+
+.lg_column {
+	width: 46%;
+	float: left;
+	height: 100%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	margin-left: 20px;
+	font-family: helvetica;
+}
+
+#menu {
+	float: right;
+}
+
+p {
+	font-size: 14px;
+}
+
+#prof_pic {
+	width: 100%;
+}
+
+.sm_column {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
